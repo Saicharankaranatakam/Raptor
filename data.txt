@@ -1,0 +1,9 @@
+saicharan
+1student name is :sai
+1student email is :saicharan6102@gmai.com
+2student name is :charan
+2student email is :174g5a0221@srit.ac.in
+1st student name is :sai
+1 st student email is :sai@gmail.com
+2st student name is :charan
+2 st student email is :charan2gmail.com
